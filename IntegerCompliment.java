@@ -3,9 +3,7 @@ import java.util.Scanner;
 public class IntegerCompliment {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		
+
 		// Take input as decimal 
 		Scanner input = new Scanner(System.in);
 		int decVal = input.nextInt();
@@ -41,12 +39,7 @@ public class IntegerCompliment {
 
 			  
 	}
-		
-		
-		
-		
-		
-		
+
 
 	}
 
