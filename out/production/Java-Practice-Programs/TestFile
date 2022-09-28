@@ -1,0 +1,8 @@
+Input : 25
+Expected Output : 6
+
+Description :
+Input : 25
+Binary Value of Input : 11001
+Compliment Value of Binary : 00110
+Integer Value of Compliment : 6
